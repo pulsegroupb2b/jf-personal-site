@@ -2,9 +2,6 @@
 title: Jakes personal site
 timezone: UTC
 collections:
-  gallery:
-    title: Gallery
-    output: true
   posts:
     title: Posts
     output: true
